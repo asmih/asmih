@@ -6,9 +6,9 @@
 O bootcamp da Laboratória tem duração de 6 meses com foco em empregabilidade na área de programação. O treinamento é intensivo, voltado para a formação de desenvolvedora front-end júnior que saiba trabalhar em ambientes de incertezas e constante mudança. Nele, são aprendidas linguagem JavaScript, HTML, CSS, UX, entre outras. 
 No bootcamp são desenvolvidas não só as habilidades técnicas, como também as habilidades socioemocionais e profissionais, como autoaprendizagem, comunicação, trabalho em equipe, entre outras. 
 
-:bar_chart: Hard skills: React.js, next.js, JavaScript, CSS, HTML, Bootstrap, conceitos de UX/UI, método BEM, Planejamento, SCRUM, metodologias ágeis.
+:bar_chart: Hard skills: JavaScript, CSS, HTML, Bootstrap, conceitos de UX/UI, método BEM, Planejamento, SCRUM, metodologias ágeis.
 
-:computer: Estudando clear code, React.js, Cloud Firestore e Firebase Auth.
+:computer: Estudando React.js, Cloud Firestore e Firebase Auth.
 
 :rainbow_flag: Tenho interesse em projetos de impacto social, buscando formas de usar a tecnologia para incluir pessoas historicamente excluídas socialmente (mulheres, LGBTs, negros, pessoas com deficiência etc.)
 
