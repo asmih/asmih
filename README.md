@@ -43,4 +43,4 @@ No bootcamp são desenvolvidas não só as habilidades técnicas, como também a
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-de-araujo-santana/)](https://www.linkedin.com/in/michelle-de-araujo-santana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelledearaujo2@gmail.com)](mailto:michelledearaujo2@gmail.com)
 
-
+</div>
